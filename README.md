@@ -1,4 +1,4 @@
-# QUESTIONS LINKS FOR LeetCode SQL-50
+# Questions Links for LeetCode SQL-50
 
 # QUE-1 [Problem link](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50)
 
