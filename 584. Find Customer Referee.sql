@@ -1,6 +1,6 @@
 -- # LeetCode SQL TOP 50
 
--- # QUE-1 584. Find Customer Referee
+-- # QUE-1 Find Customer Referee
 
 **Solution:**
 SELECT name FROM customer
